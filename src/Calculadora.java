@@ -10,5 +10,12 @@
 public class Calculadora {
     
     public int suma (int a, int b){
+        System.out.println("hola");
+        System.out.println("hola");
+        return a+b;
     }
+    
+    
+    
+
 }
